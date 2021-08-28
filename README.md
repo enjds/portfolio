@@ -1,4 +1,4 @@
-# portfolio
+# VueJS Portfolio
 
 ## Build Setup
 
