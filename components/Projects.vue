@@ -53,7 +53,6 @@ export default Vue.extend({
                     imageUrl: '/projects/booknlive.jpeg',
                     technologies: ['CSS', 'HTML', 'responsive', 'Angular', 'Material Design'],
                     name: 'BookNLive',
-                    code: 'https://www.booknlive.co/#/',
                     link: 'https://www.booknlive.co/#/',
                     summary: 'In this project, I work with Angular and Material Design to create a responsive page. I did the architecture of the frontend code and worked on the map search feature similar to AirBnB'
                 },
